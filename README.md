@@ -19,21 +19,21 @@ This is a full-stack employee management system built using a **Node.js** backen
 ## Technologies Used
 
 - **Frontend**: React.js, Axios, React Router, Bootstrap
-- **Backend**: Node.js, Express.js, Mongoose, JWT (JSON Web Tokens), Multer (for file uploads)
+- **Backend**: Node.js, Express.js, Mongoose, Multer (for file uploads)
 - **Database**: MongoDB
 ---
 ## Features
 
 ### Frontend (React):
-- User authentication (login and logout) using JWT.
+- User authentication.
 - Employee list view with sorting, searching, and pagination.
 - Create new employees, upload profile images, and manage employee details.
 - Edit and delete employee records.
 - User-friendly interface with responsive design.
 
 ### Backend (Node.js/Express):
-- RESTful API with CRUD operations for employees.
-- Secure user authentication with password hashing (bcryptjs) and JWT.
+- CRUD operations for employees.
+- Secure user authentication.
 - File upload handling with Multer.
 - MongoDB database integration with Mongoose for schema definition and validation.
 
