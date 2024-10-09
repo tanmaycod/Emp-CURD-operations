@@ -52,16 +52,19 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/tanmaycod/Emp-operations.git
 
-2. **Install dependencies for both frontend and backend:**:
+2. **Install dependencies for both frontend and backend**:
    
    Navigate to the root project directory:
    ```bash
    cd emp-management
-
-  Install backend dependencies and run:
-  
+3. **Install backend dependencies and run**:
    ```bash
    cd backend
    npm install
    node server.js
+4. **Install frontend dependencies and run**:
+    ```bash
+   cd frontend
+   npm install
+   npm start
 
