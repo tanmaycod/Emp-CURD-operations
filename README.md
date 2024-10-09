@@ -12,6 +12,7 @@ This is a full-stack employee management system built using a **Node.js** backen
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation and Setup](#installation-and-setup)
+- [Demo Video](#demo-video)
 
 ---
 
@@ -67,4 +68,12 @@ Make sure you have the following installed:
    cd frontend
    npm install
    npm start
+
+---
+
+## Demo Video 
+https://github.com/user-attachments/assets/a1259730-ab1c-4dae-bbc9-34968c1b6530
+
+
+
 
