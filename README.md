@@ -12,9 +12,6 @@ This is a full-stack employee management system built using a **Node.js** backen
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation and Setup](#installation-and-setup)
-- [Available Scripts](#available-scripts)
-- [API Endpoints](#api-endpoints)
-- [License](#license)
 
 ---
 
@@ -24,4 +21,34 @@ This is a full-stack employee management system built using a **Node.js** backen
 - **Backend**: Node.js, Express.js, Mongoose, JWT (JSON Web Tokens), Multer (for file uploads)
 - **Database**: MongoDB
 ---
+## Features
+
+### Frontend (React):
+- User authentication (login and logout) using JWT.
+- Employee list view with sorting, searching, and pagination.
+- Create new employees, upload profile images, and manage employee details.
+- Edit and delete employee records.
+- User-friendly interface with responsive design.
+
+### Backend (Node.js/Express):
+- RESTful API with CRUD operations for employees.
+- Secure user authentication with password hashing (bcryptjs) and JWT.
+- File upload handling with Multer.
+- MongoDB database integration with Mongoose for schema definition and validation.
+
+---
+## Installation and Setup
+
+### Prerequisites
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/en/)
+- [MongoDB](https://www.mongodb.com/)
+
+### Steps to Set Up the Project
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/tanmaycod/Emp-operations.git
 
